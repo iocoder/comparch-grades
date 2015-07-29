@@ -32,7 +32,7 @@
 | 29 | Tarek Khaled Ismail Eltalawy                  |      |
 | 30 | Tarek Khaled Ragab Essawy Elsayed             |      |
 | 31 | Abdelrahman Ameer Abdelrahman Elessawy        |      |
-| 32 | Abdelrahman Aly Mahmoud Morgan Abdallah       | Yes |
+| 32 | Abdelrahman Aly Mahmoud Morgan Abdallah       | Yes  |
 | 33 | Abdelrahman Mohamed Kamal Ibrahim Ellewaa     |      |
 | 34 | Abdelrahman Mostafa Bassyoni Mostafa          |      |
 | 35 | Abdallah Mahmoud Elabaseery Mahmoud           |      |
