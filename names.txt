@@ -46,7 +46,7 @@
 | 43 | Omar Mahmoud Youssef Abdelsalam Mansour       |      |
 | 44 | Omar Yousry Mahmoud Attia                     |      |
 | 45 | Amr Saleh Mohamed Aly Mohamed                 |      |
-| 46 | Amr Fathy Mohamed Eldefrawy                   |      |
+| 46 | Amr Fathy Mohamed Eldefrawy                   |  YES |
 | 47 | Caroline Adel Armia Shnouda                   |      |
 | 48 | Kareem Sayed Ahmad Saeed Sayed Ahmad          |      |
 | 49 | Kareem Wageeeh Zakarya Omar Elazzouny         |      |
