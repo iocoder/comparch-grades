@@ -13,7 +13,7 @@
 | 10 | Ayman Khaled Mahmoud Ibrahim Geneidy          |      |
 | 11 | Bassem Mohamed Abdelmounem Mohamed            |      |
 | 12 | Bassam Tarek Ahmed Ismail Khalifa             |      |
-| 13 | Basma Ayman Mohamed Mohamed Emara             |      |
+| 13 | Basma Ayman Mohamed Mohamed Emara             | Yes  |
 | 14 | Bahie Eldeen Sameer Bahie Eldeen Shehab       |      |
 | 15 | Hassan Abdelmoety Hassan Abdelmoety           |      |
 | 16 | Hassan Mohamed Hassan Ahmad Elkhatib          |      |
