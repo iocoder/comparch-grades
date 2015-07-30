@@ -25,7 +25,7 @@
 | 22 | Reham Osama Aly Mohamed Omar                  | Yes  |
 | 23 | Sarah Mostafa Mohamed Abdelrahman             |      |
 | 24 | Shady Raafat Farghal Sayed Elbaroudy          |      |
-| 25 | Sherif Mohye Mahmoud Hafez Abdelnaby          |      |
+| 25 | Sherif Mohye Mahmoud Hafez Abdelnaby          |  Yes |
 | 26 | Shaymaa Mousa Abdellateef Hafez               |      |
 | 27 | Dyaa Ibrahim Saad Ahmed Abobaraka             |      |
 | 28 | Tarek Ashraf Ahmad Ameen Rezq                 |      |
