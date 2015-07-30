@@ -35,7 +35,7 @@
 | 32 | Abdelrahman Aly Mahmoud Morgan Abdallah       |      |
 | 33 | Abdelrahman Mohamed Kamal Ibrahim Ellewaa     |      |
 | 34 | Abdelrahman Mostafa Bassyoni Mostafa          |      |
-| 35 | Abdallah Mahmoud Elabaseery Mahmoud           |      |
+| 35 | Abdallah Mahmoud Elabaseery Mahmoud           | YES  |
 | 36 | Essam Ahmad Maher Elnaggar                    |      |
 | 37 | Aly Tarek Mohamed Ibrahim                     | Yes  |
 | 38 | Omar Ahmad Hussien Ragab                      |      |
