@@ -64,7 +64,7 @@
 | 61 | Mahmoud Roushdy Mohamed Mohamed Zeedan        |      |
 | 62 | Mahmoud Saleh Mahmoud Abdelgawad Aly          | Yes  |
 | 63 | Mostafa Gabriel Awad Mohamed                  |      |
-| 64 | Mostafa Hamdi Mahrous Bars                    |      |
+| 64 | Mostafa Hamdi Mahrous Bars                    | Yes  |
 | 65 | Mostafa Abdelaziz Mohamed Abdelaziz           | Yes  |
 | 66 | Maha Ibrahim Mohamed Heikal                   |      |
 | 67 | Mai Ibrahim Hussien Mohamed Aly Eissa         |      |
